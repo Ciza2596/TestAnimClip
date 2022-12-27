@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: Gonjen L2D.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: 00e3faffc466dbff326c00003c6c0000
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: d9c001409e96bd54c82f9ef2e84a4d5b, type: 2}
+  - {fileID: 11400000, guid: 54be651deaf2d234ab7545fe9d2e676b, type: 2}
+  - {fileID: 11400000, guid: cd03dc3eb1701e04a9ff8bdc71e94998, type: 2}
+  - {fileID: 11400000, guid: 6bdcb57dc5887014ebc73f65f42d7304, type: 2}

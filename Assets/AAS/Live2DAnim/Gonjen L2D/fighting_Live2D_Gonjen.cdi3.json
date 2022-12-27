@@ -1,0 +1,323 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamUI",
+			"GroupId": "",
+			"Name": "UI"
+		},
+		{
+			"Id": "ParamAlpha_idle",
+			"GroupId": "",
+			"Name": "待機の不透明度"
+		},
+		{
+			"Id": "ParamAlpha_attack",
+			"GroupId": "",
+			"Name": "攻擊の不透明度"
+		},
+		{
+			"Id": "ParamAlpha_damage",
+			"GroupId": "",
+			"Name": "受擊の不透明度"
+		},
+		{
+			"Id": "ParamAlpha_break",
+			"GroupId": "",
+			"Name": "戰鬥不能の不透明度"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup3",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup3",
+			"Name": "待機_右目　開閉"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup3",
+			"Name": "待機_左手"
+		},
+		{
+			"Id": "ParamEyeROpen2",
+			"GroupId": "ParamGroup3",
+			"Name": "待機_前髮"
+		},
+		{
+			"Id": "ParamEyeROpen5",
+			"GroupId": "ParamGroup3",
+			"Name": "待機_帯"
+		},
+		{
+			"Id": "ParamEyeROpen6",
+			"GroupId": "ParamGroup3",
+			"Name": "待機_帯2"
+		},
+		{
+			"Id": "ParamEyeROpen3",
+			"GroupId": "ParamGroup3",
+			"Name": "待機_髪"
+		},
+		{
+			"Id": "ParamEyeROpen4",
+			"GroupId": "ParamGroup3",
+			"Name": "待機_髪2"
+		},
+		{
+			"Id": "ParamEyeROpen7",
+			"GroupId": "ParamGroup3",
+			"Name": "待機_アホ毛"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup3",
+			"Name": "待機のX"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup3",
+			"Name": "待機のY"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊差分用_動作"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊差分用_不透明度"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊_動作"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊_不透明度"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊_剣のエフェクト"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊_剣のエフェクト2"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊_剣のエフェクト2"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊_剣のエフェクト2透明度"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊_右手残像"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊_ポニーテール"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊_前髮"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊_左手"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊_下半身"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊_全身"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊の回転"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊の位置X"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊の位置Y"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup",
+			"Name": "攻擊の縮放"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup2",
+			"Name": "受擊_右手"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup2",
+			"Name": "受擊_剣"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup2",
+			"Name": "受擊_右腕"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup2",
+			"Name": "受擊_左手"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup2",
+			"Name": "受擊_ポニーテール"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup2",
+			"Name": "受擊_前髮"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup2",
+			"Name": "受擊_頭"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup2",
+			"Name": "受擊のX"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup2",
+			"Name": "受擊のY"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup2",
+			"Name": "受擊の回転"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup2",
+			"Name": "受擊の縮放"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup4",
+			"Name": "戰鬥不能_手"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "ParamGroup4",
+			"Name": "戰鬥不能_上半身"
+		},
+		{
+			"Id": "Param40",
+			"GroupId": "ParamGroup4",
+			"Name": "戰鬥不能_下半身"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "ParamGroup4",
+			"Name": "戰鬥不能_ポニーテール"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "ParamGroup4",
+			"Name": "戰鬥不能の回転"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "ParamGroup4",
+			"Name": "戰鬥不能のX"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "ParamGroup4",
+			"Name": "戰鬥不能のY"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "待機"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "攻擊"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "受擊"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "戰鬥不能"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "戰鬥不能"
+		},
+		{
+			"Id": "Part2",
+			"Name": "受擊"
+		},
+		{
+			"Id": "Part3",
+			"Name": "攻擊"
+		},
+		{
+			"Id": "Part5",
+			"Name": "待機"
+		},
+		{
+			"Id": "Part4",
+			"Name": "攻擊差分用"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeROpen5",
+			"ParamEyeROpen6"
+		],
+		[
+			"Param29",
+			"Param30"
+		],
+		[
+			"Param37",
+			"Param38"
+		]
+	]
+}
