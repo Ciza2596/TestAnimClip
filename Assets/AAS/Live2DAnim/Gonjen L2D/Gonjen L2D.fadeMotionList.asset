@@ -9,6 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
   m_Name: Gonjen L2D.fadeMotionList
   m_EditorClassIdentifier: 
+  MotionInstanceIds: 326c00003c6c0000c466dbff00e3faff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: cd03dc3eb1701e04a9ff8bdc71e94998, type: 2}
+  - {fileID: 11400000, guid: 6bdcb57dc5887014ebc73f65f42d7304, type: 2}
+  - {fileID: 11400000, guid: 09d2bbae648b30d43825c76026c98e06, type: 2}
+  - {fileID: 11400000, guid: a9a3859b6f6a500409bdf64df99db047, type: 2}
